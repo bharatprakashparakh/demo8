@@ -1,3 +1,5 @@
 hello doing rebase topic
 change made by master
 changes made by github in diverge case
+change for diverge case
+
