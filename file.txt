@@ -7,4 +7,4 @@ now1
 now2 of github
 i love india
 hey world
-x=500
+x=5.5
